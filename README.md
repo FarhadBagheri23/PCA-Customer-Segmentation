@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Segmentation with PCA & Clustering
 
 Dimensionality reduction and customer segmentation on credit card behavioral data using **Principal Component Analysis (PCA)**, **K-Means**, and **Hierarchical Clustering**.
@@ -108,3 +109,7 @@ pip install pandas numpy scikit-learn scipy matplotlib seaborn jupyter
 # Launch notebook
 jupyter notebook Clustering-PCA.ipynb
 ```
+=======
+# PCA-Customer-Segmentation
+Dimensionality reduction and customer segmentation using PCA, K-Means, and Hierarchical Clustering on credit card behavioral data. Compares clustering quality before and after PCA with silhouette scores and separation metrics.
+>>>>>>> 9c35daf694005cc19bc7364a498875b45d0f14e7
